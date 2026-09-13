@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shefali Kanojiya</h1>
 <h3 align="center">A passionate android developer from India</h3>
-<p align="left">I'm an Android Developer with 8+ years of experience proficient in Java and Kotlin. My expertise lies in creating mobile apps for Android devices in the e-commerce, food app, multi-functional social media platform integrating features inspired by Instagram, Threads and WhatsApp, medical app, jewelers assist, spiritual, location access, educational  app, movers & packers and with 20+ projects delivered successfully.</p>
+<p align="left">I'm an Android Developer with 8+ years of experience proficient in Java and Kotlin. My expertise lies in creating mobile apps for Android devices in the e-commerce, food app, multi-functional social media platform integrating features inspired by Instagram, Threads and WhatsApp, medical app, jewelers assist, spiritual, location access, educational  app, movers & packers and with 25+ projects delivered successfully.</p>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shefalik-ionic&label=Profile%20views&color=0e75b6&style=flat" alt="shefalik-ionic" /> </p>
